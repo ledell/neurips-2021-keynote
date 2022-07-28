@@ -8,4 +8,4 @@
 
 📺 [Watch here](https://neurips.cc/virtual/2021/datasets-and-benchmarks/47107#wse-detail-47185)
 
-📓 [Slides](https://github.com/ledell/neurips-2021-keynote/blob/master/neurips_benchmarks_dec2021.pdf)
+📓 [Slides](https://github.com/ledell/neurips-2021-keynote/blob/main/neurips_benchmarks_dec2021.pdf)
